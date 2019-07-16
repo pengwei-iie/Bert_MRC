@@ -1,5 +1,5 @@
 # BERT
-
+because the cuda=8.0 can not match tf=1.11 in our server, we should update the cuda and then run bert.
 **\*\*\*\*\* New May 31st, 2019: Whole Word Masking Models \*\*\*\*\***
 
 This is a release of several new models which were the result of an improvement
